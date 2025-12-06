@@ -24,6 +24,7 @@ Fields » Field extractions » ryzen : EXTRACT-edge_temp,mem_temp_crit,junction_
 
 # The install directory contains the .deb file with the splunk package and files for the search app for monitoring sensor data
 
+```
  .
  ├── Dockerfile
  ├── install
@@ -38,4 +39,5 @@ Fields » Field extractions » ryzen : EXTRACT-edge_temp,mem_temp_crit,junction_
  │   ├── splunk-9.4.7-2a9293b80994-linux-amd64.deb
  │   └── user-seed.conf
  └── README.md
+```
 
